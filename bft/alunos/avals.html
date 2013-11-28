@@ -1,0 +1,237 @@
+
+	<div id="editAvals">
+		<div id="avals-left">
+			<br><a href="#add-aval" id="add-aval-btn">Adicionar nova avaliação</a>
+			<div id="avals-lists"></div>
+		</div>
+		<div id="avals-right">
+			<h2 id="aval-title">Nova avaliação</h2>
+			<table id="editAvals-form">
+				<tr><td>Data da avaliação:</td><td><input type="date" value="" name="aval-data" id="aval-data"/></td></tr> 
+				<tr><td>Tipo de avaliação:</td><td><select name="aval-tipo" id="aval-tipo">
+					<option value="Teste de Cooper">Teste de Cooper</option>
+					<option value="Teste de Rockport">Teste de Rockport</option></select></td></tr> 
+				<tr><td><a href="#calc-aval" id="calc-aval-btn">Calcular</a><a href="#continue-aval" id="continue-aval-btn">Continuar</a><a href="#cancel-aval" id="cancel-aval-btn">Cancelar</a></td></tr>
+			</table>
+			<h2 id="aval-title-results"></h2>
+			<table id="editAvals-results"></table>
+			<a href="#save-aval" id="save-aval-btn" style="display:none;margin-left:10px;">Salvar Nova Avaliação</a>
+		</div>
+	</div>
+
+	<script type="text/javascript">
+		$('#calc-aval-btn').hide();
+		$('#cancel-aval-btn').hide();
+		$('#continue-aval-btn').show();
+		var avalData, avalTipo, dataToSave=[], idAluno;
+
+		idAluno = $('#editAvals').parent().attr('contactid');
+
+		var htmlCooper = '<tr><td>Distância em 12min:</td><td><input type="text" value="" name="cooper-distancia" id="cooper-distancia"/>metros</td></tr><tr><td><a href="#calc-aval" id="calc-aval-btn">Calcular</a><a href="#continue-aval" id="continue-aval-btn">Continuar</a><a href="#cancel-aval" id="cancel-aval-btn">Cancelar</a></td></tr>';
+		var htmlRockport = '<tr><td>Peso:</td><td><input type="text" value="" name="rockport-peso" id="rockport-peso"/>kg</td></tr><tr><td>Idade:</td><td><input type="text" value="" name="rockport-idade" id="rockport-idade"/>anos</td></tr><tr><td>Sexo:</td><td><select name="rockport-sexo" id="rockport-sexo"><option value="masculino">Masculino</option><option value="feminino">Feminino</option></select></td></tr><tr><td>Tempo para 1milha:</td><td><input type="text" value="" name="rockport-tempo" id="rockport-tempo"/>minutos</td></tr><tr><td>FC após 1milha:</td><td><input type="text" value="" name="rockport-fc" id="rockport-fc"/>bpm</td></tr><tr><td><a href="#calc-aval" id="calc-aval-btn">Calcular</a><a href="#continue-aval" id="continue-aval-btn">Continuar</a><a href="#cancel-aval" id="cancel-aval-btn">Cancelar</a></td></tr>';
+
+		function displayAvalResults(results){
+
+			var avalData=results[0].data,
+				idAluno=results[0].idAluno,
+				avalTipo=results[0].tipo,
+				cooperDistancia=results[0].cooperDistancia,
+				cooperVO2max=results[0].cooperVO2max,
+				rockportFC=results[0].rockportFC,
+				rockportIdade=results[0].rockportIdade,
+				rockportPeso=results[0].rockportPeso,
+				rockportSexo=results[0].rockportSexo,
+				rockportTempo=results[0].rockportTempo,
+				rockportVO2max=results[0].rockportVO2max;
+
+			switch(avalTipo){
+				case 'Teste de Cooper':
+					$('#editAvals-form').html(htmlCooper);
+					$('#aval-title').empty().text('['+avalData+'] '+avalTipo);
+					$('#cancel-aval-btn').show();
+					$('#continue-aval-btn').hide();
+
+					$('#cooper-distancia').val(cooperDistancia);
+
+					var htmlResults = '<tr><td>VO2 máximo: </td><td>'+cooperVO2max+'ml/kg/min</td></tr>';
+					$('#aval-title-results').text('Resultados');
+					$('#editAvals-results').html(htmlResults);
+					$('#save-aval-btn').show();
+					break;
+				case 'Teste de Rockport':
+					$('#editAvals-form').html(htmlRockport);
+					$('#aval-title').empty().text('['+avalData+'] '+avalTipo);
+					$('#cancel-aval-btn').show();
+					$('#continue-aval-btn').hide();
+
+					$('#rockport-fc').val(rockportFC);
+					$('#rockport-tempo').val(rockportTempo);
+					$('#rockport-sexo').val(rockportSexo==1?'masculino':'feminino');
+					$('#rockport-idade').val(rockportIdade);
+					$('#rockport-peso').val(rockportPeso);
+
+					var htmlResults = '<tr><td>VO2 máximo: </td><td>'+rockportVO2max+'ml/kg/min</td></tr>';
+					$('#aval-title-results').text('Resultados');
+					$('#editAvals-results').html(htmlResults);
+					$('#save-aval-btn').show();
+
+					break;
+			}
+			$('#cancel-aval-btn').click(resetAval);
+		}
+
+		function displayAvalList(avals){
+			var list=$('#avals-lists');
+			var lh="<br>";
+			for(var i=0;i<avals.length;i++){
+				lh+='<li> ['+avals[i].data+'] '+avals[i].tipo;
+				lh+='<a href="#aval-view" class="avalviewbtn" avalid="'+avals[i].id+'"> ver </a>';
+				lh+='<a href="#aval-delete" class="avaldeletebtn" avalid="'+avals[i].id+'"> deletar </a>';
+				lh+='</li>';
+			}
+			list.html(lh);
+
+			$('.avaldeletebtn').each(function(i){
+				$(this).click(function(){
+					var answer = confirm("tem certeza que quer deletar esta avaliação?");
+					if(!answer){
+						return;
+					}
+					var id=$(this).attr('avalid');
+
+					$.ajax({
+						url: 'alunos.php',
+						data: 'action=deleteAval&id='+id+'&idAluno='+idAluno,
+						dataType: 'json',
+						type: 'post',
+						success: function(j){
+							displayAvalList(j.avals);
+						}
+					});
+				});
+			});
+
+			$('.avalviewbtn').each(function(i){
+				$(this).click(function(){
+					var id=$(this).attr('avalid');
+					$.ajax({
+						url: 'alunos.php',
+						data: 'action=getAvalResults&id='+id,
+						dataType: 'json',
+						type: 'post',
+						success: function(j){
+							displayAvalResults(j.results);
+						}
+					});
+				});
+			});
+		}
+
+		function resetAval(){
+			$('.editInfo[contactid='+idAluno+']').load('avals.html');
+			$.ajax({
+				url: 'alunos.php',
+				data: 'action=listAvals&idAluno='+idAluno,
+				dataType: 'json',
+				type: 'post',
+				success: function(j) {
+					displayAvalList(j.avals);
+					// setContinuarAvalButtonEvents();
+				}
+			});
+		}
+
+		$('#cancel-aval-btn').click(resetAval);
+		$('#add-aval-btn').click(resetAval);
+		$('#continue-aval-btn').click(function(){
+			avalData=$('#aval-data').val();
+			avalTipo=$('#aval-tipo').val();
+
+			switch(avalTipo){
+				case 'Teste de Cooper':
+					$('#editAvals-form').html(htmlCooper);
+					$('#aval-title').empty().text('['+avalData+'] '+avalTipo);
+					$('#calc-aval-btn').show();
+					$('#continue-aval-btn').hide();
+					$('#cancel-aval-btn').show();
+					break;
+				case 'Teste de Rockport':
+					$('#editAvals-form').html(htmlRockport);
+					$('#aval-title').empty().text('['+avalData+'] '+avalTipo);
+					$('#calc-aval-btn').show();
+					$('#continue-aval-btn').hide();
+					$('#cancel-aval-btn').show();
+					break;
+			}
+
+			$('#cancel-aval-btn').click(resetAval);
+			$('#calc-aval-btn').click(function(){
+				switch(avalTipo){
+					case 'Teste de Cooper':
+						var cooperDistancia = parseFloat($('#cooper-distancia').val());
+						var cooperVO2max = Math.round((cooperDistancia - 505)/44.73);
+
+						dataToSave='action=addAval';
+						dataToSave+='&idAluno='+idAluno;
+						dataToSave+='&tipo='+avalTipo;
+						dataToSave+='&data='+avalData;
+						dataToSave+='&cooperDistancia='+cooperDistancia;
+						dataToSave+='&cooperVO2max='+cooperVO2max;
+						
+						var htmlResults = '<tr><td>VO2 máximo: </td><td>'+cooperVO2max+'ml/kg/min</td></tr>';
+						$('#aval-title-results').text('Resultados');
+						$('#editAvals-results').html(htmlResults);
+						$('#save-aval-btn').show();
+
+						break;
+					case 'Teste de Rockport':
+						var rockportPeso = parseFloat($('#rockport-peso').val());
+						var rockportIdade = parseFloat($('#rockport-idade').val());
+						var rockportSexo = $('#rockport-sexo').val()=='masculino' ? 1 : 0;
+						var rockportTempo = parseFloat($('#rockport-tempo').val());
+						var rockportFC = parseFloat($('#rockport-fc').val());
+						var rockportVO2max = Math.round(132.85-(0.17*rockportPeso)-(0.39*rockportIdade)+(6.31*rockportSexo)-(3.26*rockportTempo)-(0.16*rockportFC));
+
+						dataToSave='action=addAval';
+						dataToSave+='&idAluno='+idAluno;
+						dataToSave+='&tipo='+avalTipo;
+						dataToSave+='&data='+avalData;
+						dataToSave+='&rockportPeso='+rockportPeso;
+						dataToSave+='&rockportIdade='+rockportIdade;
+						dataToSave+='&rockportSexo='+rockportSexo;
+						dataToSave+='&rockportTempo='+rockportTempo;
+						dataToSave+='&rockportFC='+rockportFC;
+						dataToSave+='&rockportVO2max='+rockportVO2max;
+						
+						var htmlResults = '<tr><td>VO2 máximo: </td><td>'+rockportVO2max+'ml/kg/min</td></tr>';
+						$('#aval-title-results').text('Resultados');
+						$('#editAvals-results').html(htmlResults);
+						$('#save-aval-btn').show();
+
+						break;
+				}
+
+				$('#save-aval-btn').click(function(){
+					$.ajax({ 
+			 			url: 'alunos.php', 
+			 			data: dataToSave, 
+			 			dataType: 'json', 
+			 			type: 'post', 
+			 			success: function (j) {
+							displayAvalList(j.avals);
+			 			} 
+					}); 
+				});
+			});
+
+		});
+
+		
+	</script>
+
+
+
+
+
+
+

@@ -1,0 +1,252 @@
+
+	<div id="editTreinos">
+		<div id="treinos-left">
+			<br><a href="#add-treino" id="add-treino-btn">Adicionar novo treino</a>
+			<div id="treinos-lists"></div>
+		</div>
+		<div id="treinos-right">
+			<h2 id="treino-title">Novo treino</h2>
+			<table id="editTreinos-form">
+				<tr><td>Data da elaboração do treino:</td><td><input type="date" value="" name="treino-data" id="treino-data"/></td></tr>
+				<tr><td>Efetivo partir de:</td><td><input type="date" value="" name="treino-inicio" id="treino-inicio"/></td></tr>
+				<tr><td>Efetivo até:</td><td><input type="date" value="" name="treino-fim" id="treino-fim"/></td></tr>
+				<tr><td>Número de programas neste treino:</td><td><select name="treino-nprogramas" id="treino-nprogramas">
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option></select></td></tr> 
+				<tr><td><a href="#continue-treino" id="continue-treino-btn">Continuar</a><a href="#cancel-treino" id="cancel-treino-btn">Cancelar</a></td></tr>
+			</table>
+			<h2 class="titulo-programa" id="titulo-programa-a"></h2>
+			<table class="edit-programa" id="edit-programa-a"></table>
+			<h2 class="titulo-programa" id="titulo-programa-b"></h2>
+			<table class="edit-programa" id="edit-programa-b"></table>
+			<h2 class="titulo-programa" id="titulo-programa-c"></h2>
+			<table class="edit-programa" id="edit-programa-c"></table>
+			<h2 class="titulo-programa" id="titulo-programa-d"></h2>
+			<table class="edit-programa" id="edit-programa-d"></table>
+			<h2 class="titulo-programa" id="titulo-programa-e"></h2>
+			<table class="edit-programa" id="edit-programa-e"></table>
+			<p style="margin-top: 40px"><a href="#voltar-treino" id="voltar-treino-btn" style="display:none">Voltar</a><a href="#save-treino" id="save-treino-btn" style="display:none">Salvar Novo Treino</a></p>
+		</div>
+	</div>
+
+	<script type="text/javascript">
+		$('#cancel-treino-btn').hide();
+		$('#continue-treino-btn').show();
+		var treinoData, 
+			treinoTipo, 
+			treinoToSave=[],
+			progsToSave=[],
+			exsToSave=[],
+			idAluno = $('#editTreinos').parent().attr('contactid');
+
+		function displayTreinoList(treinos){
+			var list=$('#treinos-lists');
+			var lh="<br>";
+			for(var i=0;i<treinos.length;i++){
+				lh+='<li> ['+treinos[i].data+'] De:'+treinos[i].inicio+' | Até: '+treinos[i].fim;
+				lh+='<a href="#treino-view" class="treinoviewbtn" treinoid="'+treinos[i].id+'"> ver </a>';
+				lh+='<a href="#treino-delete" class="treinodeletebtn" treinoid="'+treinos[i].id+'"> deletar </a>';
+				lh+='</li>';
+			}
+			list.html(lh);
+
+			$('.treinodeletebtn').each(function(i){
+				$(this).click(function(){
+					var answer = confirm("tem certeza que quer deletar este treino?");
+					if(!answer){
+						return;
+					}
+					var id=$(this).attr('treinoid');
+
+					$.ajax({
+						url: 'alunos.php',
+						data: 'action=deleteTreino&id='+id+'&idAluno='+idAluno,
+						dataType: 'json',
+						type: 'post',
+						success: function(j){
+							displayTreinoList(j.treinos);
+						}
+					});
+				});
+			});
+
+			$('.treinoviewbtn').each(function(i){
+				$(this).click(function(){
+					var id=$(this).attr('treinoid');
+					$.ajax({
+						url: 'alunos.php',
+						data: 'action=getTreinoResults&id='+id,
+						dataType: 'json',
+						type: 'post',
+						success: function(j){
+							displayTreinoResults(j.results);
+						}
+					});
+				});
+			});
+		}
+
+		function resetTreino(){
+			$('.editInfo[contactid='+idAluno+']').load('treinos.html');
+			$.ajax({
+				url: 'alunos.php',
+				data: 'action=listTreinos&idAluno='+idAluno,
+				dataType: 'json',
+				type: 'post',
+				success: function(j) {
+					displayTreinoList(j.treinos);
+					// setContinuarTreinoButtonEvents();
+				}
+			});
+		}
+
+		$('#cancel-treino-btn').click(resetTreino);
+		$('#add-treino-btn').click(resetTreino);
+		$('#continue-treino-btn').click(function(){
+			var htmlSetProgramas = '';
+			var letras = ['A','B','C','D','E'];
+
+			treinoData=$('#treino-data').val();
+			treinoInicio=$('#treino-inicio').val();
+			treinoFim=$('#treino-fim').val();
+			treinoNProgramas=$('#treino-nprogramas').val();
+
+			//$('#treino-title').empty().text('['+treinoData+'] De: '+treinoInicio+' | Até: '+treinoFim);
+			$('#treino-title').empty().text('Treino de ['+treinoInicio+'] até ['+treinoFim+']');
+			
+			htmlSetProgramas += '<tr><td>Prog</td><td>Tipo</td><td>2ª</td><td>3ª</td><td>4ª</td><td>5ª</td><td>6ª</td><td>S</td><td>D</td></tr>';
+
+			for(var i=0;i<treinoNProgramas;i++){
+				var letra = letras[i];
+				htmlSetProgramas += '<tr rowPrograma="'+i+'"><td>'+letra+'</td><td><select name="programa-tipo" id="programa-tipo"><option value="força">Força</option><option value="cardio">Cardio</option><option value="flexibilidade">Flexibilidade</option></select></td><td><input type="checkbox" id="programa-2f"/></td><td><input type="checkbox" id="programa-3f"/></td><td><input type="checkbox" id="programa-4f"/></td><td><input type="checkbox" id="programa-5f"/></td><td><input type="checkbox" id="programa-6f"/></td><td><input type="checkbox" id="programa-sab"/></td><td><input type="checkbox" id="programa-dom"/></td></tr>';
+			}
+			htmlSetProgramas += '<tr><td colspan="9"><a href="#continue-treino" id="continue-treino-btn">Continuar</a><a href="#cancel-treino" id="cancel-treino-btn">Cancelar</a></td></tr>';
+			$('#editTreinos-form').html(htmlSetProgramas);
+
+			$('#cancel-treino-btn').click(resetTreino);
+			
+			$('#continue-treino-btn').click(function(){
+				$('#continue-treino-btn').hide('slow');
+				$('#cancel-treino-btn').hide('slow');
+				$('#editTreinos-form').hide();
+				$('#save-treino-btn').show('slow');
+				$('#voltar-treino-btn').show('slow');
+
+				var programas=[];
+				var htmlProg='', htmlNovoEx='';
+				var countExs=[1,1,1,1,1], i=0;
+				var htmlForca='<tr style="text-align:center"><td>seq.</td><td>grupo<br>muscular</td><td>nome do<br>exercício</td><td>carga<br>[kg]</td><td>nº de<br>séries</td><td>nº de<br>reps</td><td>interv.<br>[min]</td><td>obs</td><td></td></tr><tr style="text-align:center"><td>'+countExs[i]+'</td><td><select id="ex-grupomuscular"><option value="peito">Peito</option><option value="costas">Costas</option><option value="braço">Braço</option><option value="pernas">Pernas</option></select></td><td><input type="text" id="ex-nome" value=""/></td><td><input type="text" id="ex-carga" value="" style="width:30px"/></td><td><select id="ex-nseries"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4<option value="5">5</option><option value="6">6</select></td><td><input type="text" id="ex-nreps" value="" style="width:30px"/></td><td><input type="text" id="ex-intervalo" value="" style="width:30px"/></td><td><input type="text" id="ex-obs" value=""/></td><td><a href="#delete-ex" class="delete-ex-btn" prog="'+i+'" ex="'+countExs[i]+'">-</a></td></tr>';
+				var htmlCardio='<tr style="text-align:center"><td>seq.</td><td>tipo</td><td>intens.[%]</td><td>vel. [km/h]</td><td>pace [SPM]</td><td>distância [m]</td><td>duração [min]</td><td>obs</td><td></td></tr><tr style="text-align:center"><td>'+countExs[i]+'</td><td><select id="ex-tipo"><option value="corrida">Corrida</option><option value="bike">Bike</option><option value="natação">Natação</option><option value="caminhada">Caminhada</option></select></td><td><input type="text" id="ex-intensidade" value="" style="width:30px"/></td><td><input type="text" id="ex-velocidade" value="" style="width:30px"/></td><td><input type="text" id="ex-pace" value="" style="width:30px"/></td><td><input type="text" id="ex-distancia" value="" style="width:50px"/></td><td><input type="text" id="ex-duracao" value="" style="width:30px"/></td><td><input type="text" id="ex-obs" value=""/></td><td><a href="#delete-ex" class="delete-ex-btn" prog="'+i+'" ex="'+countExs[i]+'">-</a></td></tr>';
+				var htmlFlex='';
+
+				for(var i=0;i<treinoNProgramas;i++){
+					programas[i]={
+						programaLetra: letras[i],
+						programaTipo: $('[rowPrograma="'+i+'"] #programa-tipo').val(),
+						programa2f: $('[rowPrograma="'+i+'"] #programa-2f').is(":checked")?1:0,
+						programa3f: $('[rowPrograma="'+i+'"] #programa-3f').is(":checked")?1:0,
+						programa4f: $('[rowPrograma="'+i+'"] #programa-4f').is(":checked")?1:0,
+						programa5f: $('[rowPrograma="'+i+'"] #programa-5f').is(":checked")?1:0,
+						programa6f: $('[rowPrograma="'+i+'"] #programa-6f').is(":checked")?1:0,
+						programaSab: $('[rowPrograma="'+i+'"] #programa-sab').is(":checked")?1:0,
+						programaDom: $('[rowPrograma="'+i+'"] #programa-dom').is(":checked")?1:0
+					};
+
+					var countDias = programas[i].programa2f+programas[i].programa3f+programas[i].programa4f+programas[i].programa5f+programas[i].programa6f+programas[i].programaSab+programas[i].programaDom;
+					var dias = '';
+					var htmlAddButton='<a href="#add-ex" class="add-ex-btn" prog="'+i+'">+</a>';
+
+					if($('[rowPrograma="'+i+'"] #programa-2f').is(":checked")){
+						dias+='2ª'; countDias-=1; if(countDias>0){dias+=', '}
+					}if($('[rowPrograma="'+i+'"] #programa-3f').is(":checked")){
+						dias+='3ª'; countDias-=1; if(countDias>0){dias+=', '}
+					}if($('[rowPrograma="'+i+'"] #programa-4f').is(":checked")){
+						dias+='4ª'; countDias-=1; if(countDias>0){dias+=', '}
+					}if($('[rowPrograma="'+i+'"] #programa-5f').is(":checked")){
+						dias+='5ª'; countDias-=1; if(countDias>0){dias+=', '}
+					}if($('[rowPrograma="'+i+'"] #programa-6f').is(":checked")){
+						dias+='6ª'; countDias-=1; if(countDias>0){dias+=', '}
+					}if($('[rowPrograma="'+i+'"] #programa-sab').is(":checked")){
+						dias+='Sáb'; countDias-=1; if(countDias>0){dias+=', '}
+					}if($('[rowPrograma="'+i+'"] #programa-dom').is(":checked")){
+						dias+='Dom'; countDias-=1; if(countDias>0){dias+=', '}
+					}
+
+					switch(programas[i].programaTipo){
+						case 'força':
+							htmlProg=htmlForca;
+							break;
+						case 'cardio':
+							htmlProg=htmlCardio;
+							break;
+						case 'flexibilidade':
+							htmlProg=htmlFlex;
+							break;
+					}
+
+					$('#titulo-programa-'+letras[i].toLowerCase()).empty().html("Programa "+programas[i].programaLetra+": "+programas[i].programaTipo+" | "+dias).show('slow');
+					$('#edit-programa-'+letras[i].toLowerCase()).empty().html(htmlProg).after(htmlAddButton).show('slow');
+				}
+
+				$('.add-ex-btn').click(function(){
+					var i=$(this).attr('prog');
+					countExs[i]++;
+					
+					switch(programas[i].programaTipo){
+						case 'força':
+							htmlNovoEx = '<tr style="text-align:center"><td>'+countExs[i]+'</td><td><select id="ex-grupomuscular"><option value="peito">Peito</option><option value="costas">Costas</option><option value="braço">Braço</option><option value="pernas">Pernas</option></select></td><td><input type="text" id="ex-nome" value=""/></td><td><input type="text" id="ex-carga" value="" style="width:30px"/></td><td><select id="ex-nseries"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4<option value="5">5</option><option value="6">6</select></td><td><input type="text" id="ex-nreps" value="" style="width:30px"/></td><td><input type="text" id="ex-intervalo" value="" style="width:30px"/></td><td><input type="text" id="ex-obs" value=""/></td><td><a href="#delete-ex" class="delete-ex-btn" prog="'+i+'" ex="'+countExs[i]+'">-</a></td></tr>';
+							break;
+						case 'cardio':
+							htmlNovoEx = '<tr style="text-align:center"><td>'+countExs[i]+'</td><td><select id="ex-tipo"><option value="corrida">Corrida</option><option value="bike">Bike</option><option value="natação">Natação</option><option value="caminhada">Caminhada</option></select></td><td><input type="text" id="ex-intensidade" value="" style="width:30px"/></td><td><input type="text" id="ex-velocidade" value="" style="width:30px"/></td><td><input type="text" id="ex-pace" value="" style="width:30px"/></td><td><input type="text" id="ex-distancia" value="" style="width:30px"/></td><td><input type="text" id="ex-duracao" value="" style="width:30px"/></td><td><input type="text" id="ex-obs" value=""/></td><td><a href="#delete-ex" class="delete-ex-btn" prog="'+i+'" ex="'+countExs[i]+'">-</a></td></tr>';
+							break;
+						case 'flexibilidade':
+							htmlNovoEx = '';
+							break;
+					}
+					$('#edit-programa-'+letras[i].toLowerCase()+' tr:last').after(htmlNovoEx).show('slow');
+					
+					$('.delete-ex-btn').click(function(){ 
+						$(this).parent().parent().remove(); 
+					});
+
+				});
+				
+				$('.delete-ex-btn').click(function(){ 
+					$(this).parent().parent().remove(); 
+				});
+				
+
+				// $('#save-treino-btn').show();
+				// $('#voltar-treino-btn').show();
+				// $('#save-treino-btn').click(function(){
+				// 	$.ajax({ 
+			 // 			url: 'alunos.php', 
+			 // 			data: dataToSave, 
+			 // 			dataType: 'json', 
+			 // 			type: 'post', 
+			 // 			success: function (j) {
+				// 			displayTreinoList(j.treinos);
+			 // 			} 
+				// 	}); 
+				// });
+				// $('#voltar-treino-btn').click(function(){
+
+				//});
+			});
+
+			
+
+		});
+
+		
+	</script>
+
+
+
+
+
+
+

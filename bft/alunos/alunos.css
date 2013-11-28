@@ -1,0 +1,242 @@
+/* CSS Document */ 
+@font-face {
+  font-family: Syncopate;
+  src:  url('fonts/Syncopate400.ttf'),
+        url('fonts/Syncopate700.ttf');
+}
+
+@font-face {
+  font-family: Quicksand;
+  src:  url('fonts/Quicksand300.ttf'),
+        url('fonts/Quicksand400.ttf'),
+        url('fonts/Quicksand700.ttf');
+}
+
+html, body{
+       margin:0;
+       padding:0;
+}
+
+body { 
+       background-color: #000000; 
+} 
+#Layer1 { 
+       margin:auto; 
+       width:900px; 
+       z-index:1; 
+} 
+#add-contact-form, #editDados-form, #editAvals-form, #editAvals-results, #editTreinos-form, #editTreinos-results{ 
+       color:#FFF;
+       font-weight:300;
+       font-family: Quicksand;
+       background-color:#333333;
+       margin:0;
+       padding:10px;
+       width: 100%;
+       height: auto;
+}
+#editDados{
+       height: 400px;
+       background-color:#333333;
+}
+#editDados, #editAvals, #editTreinos{
+       overflow: auto;
+}
+#add-contact-btn, #add-aval-btn, #add-treino-btn{ 
+       font-family: 'Syncopate', sans-serif;
+       background-color: #50D9E3; 
+       color: #266B96; 
+       text-shadow: 0 1px 0 rgba(255,255,255,.5);
+       border:1px solid #666666; 
+       text-decoration:none; 
+       padding: 5px; 
+       margin: 5px 0;
+} 
+.add-ex-btn{ 
+       font-family: 'Syncopate', sans-serif;
+       background-color: #50D9E3; 
+       color: #266B96; 
+       text-shadow: 0 1px 0 rgba(255,255,255,.5);
+       border:1px solid #666666; 
+       text-decoration:none; 
+       padding: 5px; 
+       margin: 0;
+       width: auto;
+}
+#save-contact-btn, #update-contact-btn, #save-aval-btn, #save-treino-btn, #voltar-treino-btn{ 
+       font-family: 'Syncopate', sans-serif;
+       background-color: #50D9E3; 
+       color: #266B96; 
+       text-shadow: 0 1px 0 rgba(255,255,255,.5);
+       border:1px solid #666666; 
+       text-decoration:none; 
+       padding: 5px; 
+       margin: 5px 0;
+} 
+#cancel-btn, #edit-btn{ 
+       font-family: 'Syncopate', sans-serif;
+       background-color: #50D9E3; 
+       color: #266B96; 
+       text-shadow: 0 1px 0 rgba(255,255,255,.5);
+       border:1px solid #666666; 
+       color:#000; 
+       text-decoration:none; 
+       padding: 5px; 
+       margin: 5px 0;
+} 
+h1{ 
+       color:#FFFC40; 
+       font-family: Syncopate;
+       font-weight: 400;
+} 
+#list-title{ 
+       color:#FFFC40; 
+       font-weight:bold; 
+       font-size:16px; 
+       font-family: Syncopate;
+       font-weight: 400;
+       margin-top:10px; 
+} 
+#contacts-lists{ 
+       padding:0;
+       color:#FFF; 
+       font-weight:300; 
+       font-family: Quicksand;
+       font-size:12px; 
+} 
+#contacts-lists a{ 
+       font-family: 'Syncopate', sans-serif;
+       background-color: #50D9E3; 
+       color: #266B96; 
+       text-shadow: 0 1px 0 rgba(255,255,255,.5);
+       text-decoration:none;
+       font-size: 10px;
+       font-weight: 400;         
+       padding:5px;
+       border: 1px solid rgba(0,0,0,.5);
+} 
+#contacts-lists li{ 
+       list-style:none; 
+       border-bottom:1px dashed #666666; 
+       margin-bottom:10px; 
+       padding:0 0 10px 0; 
+} 
+#notice{ 
+       width:400px; 
+       margin:auto; 
+       background-color:#FFFF99; 
+       border:1px solid #FFCC99; 
+       font-weight:bold; 
+       font-family:verdana; 
+       margin-top:10px; 
+       padding:4px; 
+}
+
+.editInfo {
+       display: none;
+       height: 400px;
+       border-bottom:1px dashed #666666;
+       margin-bottom: 10px;
+       margin-top: -10px;
+}
+#avals-lists, #treinos-lists{ 
+       padding:0;
+       width: 100%;
+       color:#FFF; 
+       font-weight:300; 
+       font-family: Quicksand;
+       font-size:12px; 
+} 
+#avals-lists a, #treinos-lists a{ 
+       font-family: 'Syncopate', sans-serif;
+       background-color: #50D9E3; 
+       color: #266B96; 
+       text-shadow: 0 1px 0 rgba(255,255,255,.5);
+       text-decoration:none; 
+       font-weight: 400;                     
+       padding: 5px; 
+       margin: 0; 
+       border: 1px solid rgba(0,0,0,.5);
+} 
+#avals-lists li, #treinos-lists li{ 
+       list-style:none; 
+       border-bottom:1px dashed #666666; 
+       margin-bottom:10px; 
+       padding:0 0 10px 0; 
+}
+#avals-left, #treinos-left{
+      -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+      -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+      box-sizing: border-box;
+       display: inline;
+       float: left;
+       width: 300px;
+       height: 400px;
+       overflow: auto;
+
+}
+#avals-right, #treinos-right{ 
+      -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+      -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+      box-sizing: border-box;
+       display: inline;
+       float: left;
+       padding: 15px;
+       width: 600px;
+       height: 400px;
+       background-color:#333333; 
+       color:#FF6600; 
+       font-weight:300; 
+       font-family: Quicksand;
+       font-size:12px; 
+       overflow: auto;
+} 
+#aval-title, #aval-title-results, #treino-title{
+       font-family: 'Syncopate', sans-serif;
+       color: #FFFC40;
+       font-size: 16px;
+       font-weight: 400;
+}
+
+.titulo-programa{
+      display: none;
+      padding: 10px 0;
+      font-family: 'Syncopate', sans-serif;
+      color: #FFFC40;
+      font-weight: 400;
+      font-size: 14px;
+      border-top: 1px dashed #666666;
+}
+
+.edit-programa{
+      display: none;
+       color:#FFF; 
+       font-weight:300; 
+       font-family: Quicksand;
+       background-color:#333333; 
+       margin:0; 
+       padding:10px;
+       width: 100%; 
+       height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

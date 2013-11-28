@@ -1,0 +1,2386 @@
+[01-Oct-2013 13:26:56] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 13:26:56] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 13:28:24] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 13:28:24] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 13:28:28] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 13:28:28] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 13:30:37] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 13:30:37] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 13:31:15] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 13:31:15] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 13:32:31] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 13:32:31] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 13:32:58] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 13:32:58] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 13:33:02] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 13:33:02] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 13:33:51] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 13:33:51] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 13:33:53] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 13:33:53] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 13:34:03] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 13:34:03] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 13:54:52] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 13:54:52] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 14:15:23] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 14:15:23] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 14:15:36] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 14:15:36] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 14:26:12] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 14:26:12] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 14:29:54] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 14:29:54] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 14:29:55] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 14:29:55] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 14:34:02] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 14:34:02] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 14:48:37] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 14:48:37] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 14:51:00] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 14:51:00] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 14:56:18] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 14:56:18] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:07:36] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:07:36] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:14:48] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:14:48] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:15:52] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:15:52] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:28:33] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:28:33] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:31:31] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:31:31] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:32:11] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:32:11] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:35:52] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:35:52] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:53:16] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:53:16] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:53:40] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:53:40] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:53:52] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:53:52] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:58:09] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:58:09] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:58:13] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:58:13] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:58:16] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:58:16] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:58:28] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[01-Oct-2013 15:58:28] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[02-Oct-2013 10:06:13] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[02-Oct-2013 10:06:13] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[02-Oct-2013 10:06:24] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[02-Oct-2013 10:06:24] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[02-Oct-2013 10:09:38] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[02-Oct-2013 10:09:38] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[02-Oct-2013 10:15:34] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[02-Oct-2013 10:15:34] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.formoid_files/formoid1/form.php on line 10
+[02-Oct-2013 10:22:44] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/Formoid.formoid.php on line 10
+[02-Oct-2013 10:22:44] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/Formoid.formoid.php on line 10
+[02-Oct-2013 10:23:36] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/Formoid.formoid.php on line 10
+[02-Oct-2013 10:23:36] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/Formoid.formoid.php on line 10
+[02-Oct-2013 10:30:03] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/Formoid.formoid.php on line 10
+[02-Oct-2013 10:30:03] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/Formoid.formoid.php on line 10
+[02-Oct-2013 10:31:15] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.php on line 10
+[02-Oct-2013 10:31:15] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.php on line 10
+[02-Oct-2013 10:34:14] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.php on line 10
+[02-Oct-2013 10:34:14] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.php on line 10
+[02-Oct-2013 10:41:03] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.php on line 10
+[02-Oct-2013 10:41:03] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.php on line 10
+[02-Oct-2013 10:41:41] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.php on line 10
+[02-Oct-2013 10:41:41] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.php on line 10
+[02-Oct-2013 10:41:43] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.php on line 10
+[02-Oct-2013 10:41:43] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.php on line 10
+[02-Oct-2013 10:41:50] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.php on line 10
+[02-Oct-2013 10:41:50] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.php on line 10
+[02-Oct-2013 10:41:54] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.php on line 10
+[02-Oct-2013 10:41:54] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.php on line 10
+[02-Oct-2013 10:42:01] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.php on line 10
+[02-Oct-2013 10:42:01] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.php on line 10
+[02-Oct-2013 10:42:30] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/formoid.php on line 10
+[02-Oct-2013 10:42:30] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/formoid.php on line 10
+[02-Oct-2013 10:42:38] PHP Warning:  require_once(__DIR__/handler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aeres039/public_html/brasilidados/contact_form/form.php on line 10
+[02-Oct-2013 10:42:38] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/handler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeres039/public_html/brasilidados/contact_form/form.php on line 10
+[02-Oct-2013 10:47:07 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:07 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:07 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:07 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:07 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 10:47:07 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:07 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:10 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:10 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:10 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:10 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:10 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 10:47:10 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:10 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:11 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:11 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:11 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:11 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:11 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 10:47:11 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:11 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:12 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:12 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:12 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:12 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:12 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 10:47:12 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:12 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:12 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:12 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:12 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:12 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:12 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 10:47:12 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:12 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:13 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:13 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:13 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:13 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:13 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 10:47:13 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:13 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:30 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:30 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:30 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:30 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:30 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 10:47:30 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:30 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:33 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:33 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:33 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:33 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:33 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 10:47:33 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:47:33 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:25 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:25 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:25 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:25 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:25 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 10:50:25 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:25 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:27 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:27 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:27 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:27 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:27 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 10:50:27 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:27 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:28 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:28 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:28 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:28 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:28 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 10:50:28 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:28 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:29 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:29 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:29 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:29 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:29 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 10:50:29 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:29 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:29 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:29 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:29 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:29 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:29 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 10:50:29 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:29 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:50 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:50 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:50 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:50 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:50 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 10:50:50 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 10:50:50 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:03:52 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:03:52 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:03:52 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:03:52 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:03:52 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:03:52 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:03:52 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:03:52 America/Sao_Paulo] PHP Warning:  strftime() [<a href='function.strftime'>function.strftime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Sao_Paulo' for 'BRT/-3.0/no DST' instead in /home/aeres039/public_html/brasilidados/contact_form/handler.php on line 134
+[02-Oct-2013 11:03:52 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:03:52 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:03:52 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:03:52 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:03:52 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:03:52 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:03:52 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:04:21 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:04:21 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:04:21 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:04:21 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:04:21 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:04:21 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:04:21 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:04:21 America/Sao_Paulo] PHP Warning:  strftime() [<a href='function.strftime'>function.strftime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Sao_Paulo' for 'BRT/-3.0/no DST' instead in /home/aeres039/public_html/brasilidados/contact_form/handler.php on line 134
+[02-Oct-2013 11:04:21 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:04:21 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:04:21 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:04:21 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:04:21 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:04:21 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:04:21 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:01 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:01 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:01 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:01 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:01 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:20:01 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:01 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:01 America/Sao_Paulo] PHP Warning:  strftime() [<a href='function.strftime'>function.strftime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Sao_Paulo' for 'BRT/-3.0/no DST' instead in /home/aeres039/public_html/brasilidados/contact_form/handler.php on line 134
+[02-Oct-2013 11:20:01 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:01 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:01 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:01 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:01 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:20:01 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:01 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:58 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:58 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:58 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:58 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:58 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:20:58 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:58 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:58 America/Sao_Paulo] PHP Warning:  strftime() [<a href='function.strftime'>function.strftime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Sao_Paulo' for 'BRT/-3.0/no DST' instead in /home/aeres039/public_html/brasilidados/contact_form/handler.php on line 134
+[02-Oct-2013 11:20:59 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:59 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:59 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:59 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:59 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:20:59 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:20:59 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:28:40 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:28:40 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:28:40 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:28:40 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:28:40 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:28:40 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:28:40 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:28:40 America/Sao_Paulo] PHP Warning:  strftime() [<a href='function.strftime'>function.strftime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Sao_Paulo' for 'BRT/-3.0/no DST' instead in /home/aeres039/public_html/brasilidados/contact_form/handler.php on line 134
+[02-Oct-2013 11:28:40 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:28:40 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:28:40 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:28:40 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:28:40 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:28:40 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:28:40 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:31:31 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:31:31 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:31:31 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:31:31 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:31:31 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:31:31 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:31:31 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:31:31 America/Sao_Paulo] PHP Warning:  strftime() [<a href='function.strftime'>function.strftime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Sao_Paulo' for 'BRT/-3.0/no DST' instead in /home/aeres039/public_html/brasilidados/contact_form/handler.php on line 134
+[02-Oct-2013 11:31:31 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:31:31 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:31:31 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:31:31 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:31:31 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:31:31 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:31:31 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:37:34 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:37:34 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:37:34 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:37:34 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:37:34 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:37:34 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:37:34 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:37:34 America/Sao_Paulo] PHP Warning:  strftime() [<a href='function.strftime'>function.strftime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Sao_Paulo' for 'BRT/-3.0/no DST' instead in /home/aeres039/public_html/brasilidados/contact_form/handler.php on line 134
+[02-Oct-2013 11:37:34 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:37:34 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:37:34 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:37:34 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:37:34 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:37:34 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:37:34 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:44:53 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:44:53 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:44:53 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:44:53 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:44:53 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:44:53 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:44:53 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:44:53 America/Sao_Paulo] PHP Warning:  strftime() [<a href='function.strftime'>function.strftime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Sao_Paulo' for 'BRT/-3.0/no DST' instead in /home/aeres039/public_html/brasilidados/contact_form/handler.php on line 134
+[02-Oct-2013 11:44:53 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:44:53 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:44:53 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:44:53 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:44:53 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:44:53 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:44:53 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:45:28 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:45:28 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:45:28 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:45:28 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:45:28 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:45:28 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:45:28 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:45:28 America/Sao_Paulo] PHP Warning:  strftime() [<a href='function.strftime'>function.strftime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Sao_Paulo' for 'BRT/-3.0/no DST' instead in /home/aeres039/public_html/brasilidados/contact_form/handler.php on line 134
+[02-Oct-2013 11:45:28 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:45:28 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:45:28 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:45:28 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:45:28 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:45:28 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:45:28 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:50:58 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:50:58 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:50:58 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:50:58 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:50:58 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:50:58 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:50:58 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:50:58 America/Sao_Paulo] PHP Warning:  strftime() [<a href='function.strftime'>function.strftime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Sao_Paulo' for 'BRT/-3.0/no DST' instead in /home/aeres039/public_html/brasilidados/contact_form/handler.php on line 134
+[02-Oct-2013 11:50:58 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:50:58 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:50:58 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:50:58 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:50:58 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:50:58 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:50:58 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:51:38 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:51:38 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:51:38 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:51:38 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:51:38 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:51:38 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:51:38 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:51:38 America/Sao_Paulo] PHP Warning:  strftime() [<a href='function.strftime'>function.strftime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Sao_Paulo' for 'BRT/-3.0/no DST' instead in /home/aeres039/public_html/brasilidados/contact_form/handler.php on line 134
+[02-Oct-2013 11:51:38 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:51:38 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:51:38 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:51:38 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:51:38 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:51:38 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:51:38 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:55:51 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:55:51 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:55:51 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:55:51 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:55:51 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:55:51 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:55:51 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:55:51 America/Sao_Paulo] PHP Warning:  strftime() [<a href='function.strftime'>function.strftime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Sao_Paulo' for 'BRT/-3.0/no DST' instead in /home/aeres039/public_html/brasilidados/contact_form/handler.php on line 132
+[02-Oct-2013 11:55:51 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:55:51 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:55:51 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:55:51 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:55:51 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 11:55:51 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 11:55:51 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:06:51 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:06:51 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:06:51 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:06:51 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:06:51 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 12:06:51 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:06:51 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:06:51 America/Sao_Paulo] PHP Warning:  strftime() [<a href='function.strftime'>function.strftime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Sao_Paulo' for 'BRT/-3.0/no DST' instead in /home/aeres039/public_html/brasilidados/contact_form/handler.php on line 132
+[02-Oct-2013 12:06:51 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:06:51 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:06:51 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:06:51 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:06:51 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 12:06:51 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:06:51 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:14:57 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:14:57 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:14:57 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:14:57 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:14:57 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 12:14:57 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:14:57 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:14:57 America/Sao_Paulo] PHP Warning:  strftime() [<a href='function.strftime'>function.strftime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Sao_Paulo' for 'BRT/-3.0/no DST' instead in /home/aeres039/public_html/brasilidados/contact_form/handler.php on line 132
+[02-Oct-2013 12:14:58 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:14:58 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:14:58 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:14:58 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:14:58 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 12:14:58 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:14:58 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:22:57 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:22:57 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:22:57 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:22:57 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:22:57 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 12:22:57 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:22:57 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:22:57 America/Sao_Paulo] PHP Warning:  strftime() [<a href='function.strftime'>function.strftime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Sao_Paulo' for 'BRT/-3.0/no DST' instead in /home/aeres039/public_html/brasilidados/contact_form/handler.php on line 132
+[02-Oct-2013 12:22:57 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:22:57 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:22:57 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:22:57 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:22:57 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 12:22:57 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:22:57 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:25:36 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:25:36 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:25:36 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:25:36 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:25:36 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 12:25:36 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:25:36 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:25:36 America/Sao_Paulo] PHP Warning:  strftime() [<a href='function.strftime'>function.strftime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Sao_Paulo' for 'BRT/-3.0/no DST' instead in /home/aeres039/public_html/brasilidados/contact_form/handler.php on line 132
+[02-Oct-2013 12:25:36 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:25:36 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:25:36 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:25:36 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:25:36 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 12:25:36 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:25:36 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:27:21 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:27:21 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:27:21 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:27:21 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:27:21 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 12:27:21 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:27:21 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:27:21 America/Sao_Paulo] PHP Warning:  strftime() [<a href='function.strftime'>function.strftime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Sao_Paulo' for 'BRT/-3.0/no DST' instead in /home/aeres039/public_html/brasilidados/contact_form/handler.php on line 132
+[02-Oct-2013 12:27:21 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:27:21 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:27:21 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:27:21 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:27:21 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 12:27:21 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:27:21 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:44:50 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:44:50 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:44:50 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:44:50 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:44:50 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 12:44:50 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:44:50 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:44:50 America/Sao_Paulo] PHP Warning:  strftime() [<a href='function.strftime'>function.strftime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Sao_Paulo' for 'BRT/-3.0/no DST' instead in /home/aeres039/public_html/brasilidados/contact_form/handler.php on line 132
+[02-Oct-2013 12:44:51 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:44:51 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:44:51 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:44:51 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:44:51 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 12:44:51 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:44:51 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:45:23 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:45:23 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:45:23 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:45:23 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:45:23 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 12:45:23 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:45:23 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:45:23 America/Sao_Paulo] PHP Warning:  strftime() [<a href='function.strftime'>function.strftime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Sao_Paulo' for 'BRT/-3.0/no DST' instead in /home/aeres039/public_html/brasilidados/contact_form/handler.php on line 132
+[02-Oct-2013 12:45:24 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:45:24 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:45:24 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:45:24 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:45:24 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 12:45:24 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 12:45:24 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:06:14 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:06:14 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:06:14 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:06:14 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:06:14 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 13:06:14 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:06:14 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:11:03 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:11:03 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:11:03 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:11:03 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:11:03 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 13:11:03 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:11:03 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:12:31 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:12:31 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:12:31 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:12:31 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:12:31 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 13:12:31 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:12:31 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:14:57 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:14:57 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:14:57 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:14:57 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:14:57 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 13:14:57 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:14:57 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:15:46 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:15:46 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:15:46 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:15:46 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:15:46 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 13:15:46 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:15:46 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:18:10 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:18:10 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:18:10 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:18:10 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:18:10 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 13:18:10 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:18:10 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:18:56 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:18:56 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:18:56 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:18:56 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:18:56 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 13:18:56 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:18:56 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:20:22 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:20:22 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:20:22 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:20:22 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:20:22 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 13:20:22 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:20:22 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:20:58 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:20:58 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:20:58 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:20:58 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:20:58 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 13:20:58 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:20:58 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:22:56 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:22:56 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:22:56 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:22:56 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:22:56 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 13:22:56 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:22:56 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:23:57 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:23:57 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:23:57 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:23:57 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:23:57 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 13:23:57 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:23:57 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:24:52 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:24:52 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:24:52 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:24:52 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:24:52 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 13:24:52 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:24:52 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:25:34 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:25:34 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:25:34 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:25:34 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:25:34 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 13:25:34 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:25:34 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:27:22 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:27:22 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:27:22 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:27:22 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:27:22 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 13:27:22 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:27:22 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:28:49 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:28:49 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:28:49 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:28:49 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:28:49 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 13:28:49 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:28:49 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:29:22 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:29:22 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:29:22 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:29:22 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:29:22 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 13:29:22 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:29:22 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:29:57 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:29:57 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:29:57 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:29:57 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:29:57 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 13:29:57 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:29:57 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:33:06 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:33:06 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:33:06 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:33:06 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:33:06 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 13:33:06 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 13:33:06 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 19:51:27 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 19:51:27 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 19:51:27 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 19:51:27 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 19:51:27 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[02-Oct-2013 19:51:27 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[02-Oct-2013 19:51:27 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[04-Oct-2013 15:45:11 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[04-Oct-2013 15:45:11 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[04-Oct-2013 15:45:11 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[04-Oct-2013 15:45:11 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[04-Oct-2013 15:45:11 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[04-Oct-2013 15:45:11 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[04-Oct-2013 15:45:11 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[08-Oct-2013 01:28:45 America/Sao_Paulo] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[08-Oct-2013 01:28:45 America/Sao_Paulo] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[08-Oct-2013 01:28:45 America/Sao_Paulo] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[08-Oct-2013 01:28:45 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[08-Oct-2013 01:28:45 America/Sao_Paulo] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[08-Oct-2013 01:28:45 America/Sao_Paulo] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[08-Oct-2013 01:28:45 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0

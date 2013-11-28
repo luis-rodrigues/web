@@ -1,0 +1,473 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html, body, h1, h2, h3, p, li {
+	margin: 0;
+	padding: 0;
+	font-family: 'Marcellus SC', serif;
+	font-style: normal;
+	font-weight: normal;
+}
+
+html {
+	height: 100%;
+}
+
+html, body {
+	top: 0;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+
+}
+
+a {
+	color: #5D97CF;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #27588F;
+}
+
+h1 {
+	padding: 0;
+	font-size: 36px;
+	line-height: 40px;
+	/*color: rgba(233,238,255,.8);*/
+	color: #FFF;
+	text-shadow: 0px 2px 2px rgba(0,0,0,.5);
+}
+
+h3 {
+	font-size: 24px;
+	color: #5D97CF;
+	text-shadow: 0px 1px 1px rgba(0,0,0,.5);
+	padding-top: 15px;
+}
+
+h3 span {
+    color: #777;
+	text-shadow: 0px 1px 0px rgba(0,0,0,.2);
+	font-family: 'Raleway', sans-serif;
+	font-size: 10px;
+}
+
+table {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    color: #777;
+	text-shadow: 0px 1px 0px rgba(0,0,0,.2);
+	vertical-align: top;
+	width: 100%;
+	padding-top: 5px;
+}
+
+td {
+	padding: 0;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    color: #777;
+	text-shadow: 0px 1px 0px rgba(0,0,0,.2);
+	margin-top: 10px;
+}
+
+.conteudo p {
+	margin-top: 15px;
+}
+
+#fecha-galeria {
+	position: fixed;
+	top: -30px;
+	width: 100%;
+	padding-top: 5px;
+	height: 25px;
+	text-align: center;
+    font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	color: #FFF;
+	z-index: 1000;
+	-webkit-transiton: all .5s;
+	-moz-transition: all .5s;
+	-ms-transition: all .5s;
+	-o-transition: all .5s;
+	-transition: all .5s;
+	transition: all .5s;
+	background-color: rgba(255,255,255,.5);
+	cursor: pointer;
+}
+
+#fecha-galeria.in {
+	top: 0px;
+}
+
+#fecha-galeria.in:hover {
+    color: #5D97CF;
+	background-color: rgba(255,255,255,.8);
+	
+}
+
+#galeria-fundo {
+	position: relative;
+	width: 100%;
+	min-height: 100%;
+	overflow: hidden;
+	/*filter: blur(10px);
+	-webkit-filter: blur(10px);
+	-moz-filter: blur(10px);*/
+	z-index: 1;
+	background-image: url(../pav/images/pousada2.jpeg);
+	background-size: cover;
+}
+
+.foto-fundo {
+	display: none;
+	position: relative;
+	width: 100%;
+	min-height: 100%;
+	overflow: hidden;
+	/*filter: blur(10px);
+	-webkit-filter: blur(10px);
+	-moz-filter: blur(10px);*/
+	z-index: 1;
+	background-size: cover;
+	-webkit-transiton: all .5s;
+	-moz-transition: all .5s;
+	-ms-transition: all .5s;
+	-o-transition: all .5s;
+	-transition: all .5s;
+	transition: all .5s;
+}
+
+.foto-fundo#fundo-inicio {background-image: url(../pav/images/pousada2.jpeg);}
+.foto-fundo#info-pousada {background-image: url(../pav/images/pousada1.jpeg);}
+.foto-fundo#info-local {background-image: url(../pav/images/saopedro3.jpg);}
+.foto-fundo#info-quartos {background-image: url(../pav/images/quarto1.jpeg);}
+.foto-fundo#info-tarifas {background-image: url(../pav/images/saopedro1.jpg);}
+.foto-fundo#info-corporativos {background-image: url(../pav/images/pousada5.jpeg);}
+.foto-fundo#info-previsao {background-image: url(../pav/images/saopedro2.jpg);}
+
+.foto-fundo.active {
+	display: block;
+}
+
+#principal {
+	position: absolute;
+	margin: auto;
+	top: 12px; left: 12px; bottom: 12px; right: 12px;
+	width: auto;
+	height: auto;
+	min-width: 960px;
+	min-height: 500px;
+	max-height: 700px;
+	max-width: 1450px;
+	z-index: 2;
+}
+
+.conteudo {
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	position: absolute;
+	display: block;
+	top: -2000px;
+	left: 250px;
+	right: 250px;
+	width: auto;
+	padding: 19px 25px;
+	height: 100%;
+	overflow: auto;
+	z-index: 3;
+	-webkit-transiton: all 2.5s;
+	-moz-transition: all 2.5s;
+	-ms-transition: all 2.5s;
+	-o-transition: all 2.5s;
+	-transition: all 2.5s;
+	transition: all 2.5s;
+	text-align: left;
+	border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	background-image: url(../pav/img/parede_1500x1500.png);
+	background-repeat: repeat-x;
+	/*border: 2px solid #FFF;*/
+}
+
+.conteudo.active {
+	top: 0;
+}
+
+#map_canvas {
+	display: block;
+	width: 100%;
+	height: 200px;
+	box-shadow: 0px 5px 5px rgba(0,0,0,.5);
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+#previsao-container {
+	display: block;
+	text-align: center;
+	padding-top: 10px;
+	width: 100%;
+	top: 50px;
+	bottom: 0;
+	height: auto;
+}
+
+.previsao-unidade {
+	display: inline-block;
+	margin: auto;
+	padding: 0;
+	width: 215px;
+	height: 225px;
+}
+
+iframe {
+	box-shadow: 0px 5px 5px rgba(0,0,0,.5);
+	margin: 10px 0;
+}
+
+#nav {
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	position: absolute;
+	float: left;
+	left: 0;
+	padding: 0;
+	width: 238px;
+	height: 100%;
+	z-index: 4;
+	-webkit-transiton: all .5s;
+	-moz-transition: all .5s;
+	-ms-transition: all .5s;
+	-o-transition: all .5s;
+	-transition: all .5s;
+	transition: all .5s;
+	border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	box-shadow: 10px 0px 10px -5px rgba(0,0,0,.8);
+	background-image: url(../pav/img/paredebranca_250x1500.png);
+	/*border: 2px solid #FFF;*/
+}
+
+#nav:before {
+}
+
+#nav.out {
+	left: -600px;
+}
+
+#logo {
+	padding: 0;
+	width: 238px;
+	height: 155px;
+	text-align: center;
+}
+
+#lingua {
+	padding: 10px 19px;
+	width: 200px;
+	height: 22px;
+}
+
+#lingua ul {
+	display: block;
+	opacity: 1;
+	visibility: visible;
+	padding: 0;
+	margin: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	text-align: center;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	-webkit-transiton: opacity 0.2s;
+	-moz-transition: opacity 0.2s;
+	-ms-transition: opacity 0.2s;
+	-o-transition: opacity 0.2s;
+	-transition: opacity 0.2s;
+	transition: opacity 0.2s;
+}
+
+#lingua ul li {
+	display: inline-block;
+	margin: auto;
+	width: 70px;
+	height: 100%;
+	color: #DDD;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size: 12px;
+	cursor: pointer;
+}
+
+#lingua ul li.inactive {
+	color: #5D97CF;
+	text-shadow: 0px 1px 0px rgba(0,0,0,.6);
+}
+
+#lingua ul li.inactive:hover {
+	/*color: #FFF;*/
+}
+
+#lingua ul li.active {
+	color: #365778;
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+}
+
+#lingua ul li.active:hover {
+	cursor: auto;
+}
+
+#menu {
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	position: absolute;
+	top: 40%;
+	margin: auto;
+	padding: 15px 0 0 0;
+	width: 238px;
+}
+
+#menu ul {
+	display: block;
+	opacity: 1;
+	visibility: visible;
+	padding: 0;
+	margin: 0;
+	left: 0; bottom: 0;
+	height: 70%;
+	width: 100%;
+	text-align: left;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	-webkit-transiton: opacity 0.2s;
+	-moz-transition: opacity 0.2s;
+	-ms-transition: opacity 0.2s;
+	-o-transition: opacity 0.2s;
+	-transition: opacity 0.2s;
+	transition: opacity 0.2s;
+}
+
+#menu ul li {
+	display: block;
+	height: 25px;
+	padding: 6px 25px 6px 25px;
+	font-size: 22px;
+	cursor: pointer;
+}
+
+#menu ul li.inactive {
+	color: #5D97CF;
+	text-shadow: 0px 1px 0px rgba(0,0,0,.6);
+}
+
+#menu ul li.inactive:hover {
+	/*background-color: rgba(255,255,255,.2);
+	color: #fff;*/
+}
+
+#menu ul li.active {
+	color: #365778;
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+
+}
+
+#contatos {
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	position: absolute;
+	float: right;
+	right: 0;
+	padding: 0 19px 19px 19px;
+	width: 238px;
+	height: 100%;
+	z-index: 4;
+	-webkit-transiton: all .5s;
+	-moz-transition: all .5s;
+	-ms-transition: all .5s;
+	-o-transition: all .5s;
+	-transition: all .5s;
+	transition: all .5s;
+	text-align: left;
+	border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	background-image: url(../pav/img/parede_1500x1500.png);
+	box-shadow: -10px 0px 10px -5px rgba(0,0,0,.8);
+	/*border: 2px solid #FFF;*/
+}
+
+#contatos.out {
+	right: -600px;
+}
+
+#form-contato {
+	padding: 0;
+	width: 200px;
+	height: 341px;
+	/*background-color: rgba(0,0,0,.3);*/
+	overflow: auto;
+}
+
+#info-contato {
+	position: absolute;
+	top: 315px;
+	padding: 10px 0 0 10px;
+	width: 200px;
+	height: 110px;
+	text-align: left;
+	font-size: 12px;
+}
+
+#facebook {
+	position: absolute;
+	top: 332px;
+	right: 25px;
+	width: 40px;
+	height: 40px;
+	opacity: .6;
+	background-image: url(../pav/img/facebook_small.png);
+	background-size: 40px 40px;
+	background-repeat: no-repeat;
+}
+
+#facebook:hover {
+	opacity: 1;
+}
+
+#creditos {
+	position: absolute;
+	bottom: 20px; right: 20px;
+	width: 40px;
+	height: 40px;
+	background-image: url(../pav/img/credito_mini_sprite.png);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+
+#creditos:hover {
+	background-position: bottom;
+}
+
+#copyright {
+	position: absolute;
+	bottom: 27px;
+	padding: 10px 0 0 10px;
+	width: 200px;
+	height: 22px;
+	text-align: left;
+	font-family: 'Raleway', sans-serif;
+	font-size: 10px;
+    color: #777;
+	text-shadow: 0px 1px 0px rgba(0,0,0,.2);
+}
